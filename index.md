@@ -1,5 +1,4 @@
-## Bem vindo a página que indexa os projetos criados durante o MBA Desenvolvedor Full Stack do IGTI
-
+## Bem vindo aos meus projetos do MBA Desenvolvedor Full Stack do IGTI
 
 Os projetos são construídos ao longo de cada disciplina.
 
