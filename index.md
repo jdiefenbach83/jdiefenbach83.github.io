@@ -10,7 +10,7 @@ Os projetos são construídos ao longo de cada disciplina.
 - [Trabalho Prático](https://jdiefenbach83.github.io/MBA05-Trabalho-Pratico) - Estante de livros feito com React, React-Router e Redux(segundo branch). [Github](https://github.com/jdiefenbach83/MBA05-Trabalho-Pratico)
 
 ### Autenticação e Autorização em Soluções Web
-- [Atividade Prévia](https://jdiefenbach83.github.io/MBA06-Atividade-Previa) - Autenticação e autorização de uma aplicação com o Facebook, usando PHP. [Github](https://github.com/jdiefenbach83/MBA06-Atividade-Previa)
+- Atividade Prévia - Autenticação e autorização de uma aplicação com o Facebook, usando PHP. [Github](https://github.com/jdiefenbach83/MBA06-Atividade-Previa)
 
 ### Contato
 
