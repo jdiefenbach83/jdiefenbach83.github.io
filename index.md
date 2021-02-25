@@ -11,6 +11,8 @@ Os projetos são construídos ao longo de cada disciplina.
 
 ### Autenticação e Autorização em Soluções Web
 - Atividade Prévia - Autenticação e autorização de uma aplicação com o Facebook, usando PHP. [Github](https://github.com/jdiefenbach83/MBA06-Atividade-Previa)
+- Trabalho Prático - Autenticação e autorização de uma aplicação com o Facebook, usando Node. [Github](https://github.com/jdiefenbach83/MBA06-Trabalho-Pratico)
+
 
 ### Contato
 
