@@ -13,6 +13,9 @@ Os projetos são construídos ao longo de cada disciplina.
 - Atividade Prévia - Autenticação e autorização de uma aplicação com o Facebook, usando PHP. [Github](https://github.com/jdiefenbach83/MBA06-Atividade-Previa)
 - Trabalho Prático - Autenticação e autorização de uma aplicação com o Facebook, usando Node. [Github](https://github.com/jdiefenbach83/MBA06-Trabalho-Pratico)
 
+### Desenvolvimento de APIs
+- [Atividade Prévia](https://jdiefenbach83.github.io/MBA08-Atividade-Previa) - Desenvolvimento de um servidor básico em Node.js usando o Express. [Github](https://github.com/jdiefenbach83/MBA08-Atividade-Previa)
+- [Trabalho Prático](https://jdiefenbach83.github.io/MBA08-Trabalho-Pratico) - No aguardo. [Github](https://github.com/jdiefenbach83/MBA08-Trabalho-Pratico)
 
 ### Contato
 
