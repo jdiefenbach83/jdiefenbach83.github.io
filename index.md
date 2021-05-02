@@ -15,7 +15,14 @@ Os projetos são construídos ao longo de cada disciplina.
 
 ### Desenvolvimento de APIs
 - [Atividade Prévia](https://jdiefenbach83.github.io/MBA08-Atividade-Previa) - Desenvolvimento de um servidor básico em Node.js usando o Express. [Github](https://github.com/jdiefenbach83/MBA08-Atividade-Previa)
-- [Trabalho Prático](https://jdiefenbach83.github.io/MBA08-Trabalho-Pratico) - No aguardo. [Github](https://github.com/jdiefenbach83/MBA08-Trabalho-Pratico)
+- [Trabalho Prático](https://jdiefenbach83.github.io/MBA08-Trabalho-Pratico) - Desenvolvimento de uma API para transacionar operações bancárias utilizando o Express. [Github](https://github.com/jdiefenbach83/MBA08-Trabalho-Pratico)
+
+### Desenvolvimento Reativo
+- [Atividade Prévia](https://jdiefenbach83.github.io/MBA09-Atividade-Previa-Angular) - Desenvolvimento de uma calculadora utilizando o framework angular. [Github](https://github.com/jdiefenbach83/MBA09-Atividade-Previa-Angular)
+- [Atividade Prévia](https://jdiefenbach83.github.io/MBA09-Atividade-Previa-React) - Desenvolvimento de uma calculadora utilizando o framework react. [Github](https://github.com/jdiefenbach83/MBA09-Atividade-Previa-Angular)
+- [Atividade Prévia](https://jdiefenbach83.github.io/MBA09-Atividade-Previa-Vue) - Desenvolvimento de uma calculadora utilizando o framework vue. [Github](https://github.com/jdiefenbach83/MBA09-Atividade-Previa-Angular)
+- [Trabalho Prático](https://jdiefenbach83.github.io/MBA09-Trabalho-Pratico) - No aguardo. [Github](https://github.com/jdiefenbach83/MBA08-Trabalho-Pratico)
+
 
 ### Contato
 
