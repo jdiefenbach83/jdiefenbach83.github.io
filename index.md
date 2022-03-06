@@ -24,6 +24,7 @@ Os projetos são construídos ao longo de cada disciplina.
 
 ### Projeto Aplicado
 - [Projeto Aplicado](https://github.com/jdiefenbach83/igti-projeto-aplicado/releases/tag/v0.8.1) - Imposto de Renda Fácil - Symfony PHP com Vue.js. [Github](https://github.com/jdiefenbach83/igti-projeto-aplicado/releases/tag/v0.8.1)
+
 ### Contato
 
 Você pode entrar em contato comigo através do e-mail [jefferson.diefenbach@gmail.com](mailto:jefferson.diefenbach@gmail.com) ou verificar meu repositório no [github](https://github.com/jdiefenbach83).
